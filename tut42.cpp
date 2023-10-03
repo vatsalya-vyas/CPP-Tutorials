@@ -7,7 +7,7 @@
 // Create another class HybridCalculator and inherit it using these 2 classes:
 
 // Q1. What type of Inheritance are you using?
-// Ans: Hybrid Inheritance
+// Ans: Multiple Inheritance
 // Q2. Which mode of Inheritance are you using?
 // Ans: Public mode
 // Q3. Create an object of HybridCalculator and display results of simple and scientific calculator.
