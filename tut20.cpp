@@ -2,6 +2,7 @@
 using namespace std;
 
 // Define a class called 'Person'
+
 class Person
 {
 public:
