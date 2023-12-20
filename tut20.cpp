@@ -6,6 +6,7 @@ using namespace std;
 class Person
 {
 public:
+
     // Data members or attributes
     string name;
     int age;
