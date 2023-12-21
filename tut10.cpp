@@ -1,9 +1,11 @@
 #include <iostream>
 using namespace std;
+
 // Loops in C++
 // 1)For loop
 // 2)While loop
 // 3)Do-While loop
+
 int main()
 {
     // cout<<1; //Normal way of repeating numbers in a loop
