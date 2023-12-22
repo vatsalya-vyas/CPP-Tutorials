@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 // inline int product(int a, int b) // This is a inline function
 // {
 //     return a * b;
