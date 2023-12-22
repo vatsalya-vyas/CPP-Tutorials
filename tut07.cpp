@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
+
 int c = 45; // Global Variable
+
 int main()
 {
     // int a, b, c;
