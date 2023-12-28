@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 // Syntax for inheriting in multiple inheritance
 // class DerivedC: visibility-mode base1, visibility-mode base2
 // {
