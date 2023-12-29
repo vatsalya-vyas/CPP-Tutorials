@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int c = 45; // Global Variable
+int c = 45;  // Global Variable
 
 int main()
 {
