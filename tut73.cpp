@@ -3,6 +3,7 @@
 using namespace std;
 
 // Map is an associative array
+
 int main()
 {
     map<string, int> marksMap;
