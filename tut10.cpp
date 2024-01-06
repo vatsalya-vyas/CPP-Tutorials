@@ -8,6 +8,7 @@ using namespace std;
 
 int main()
 {
+    
     // cout<<1; //Normal way of repeating numbers in a loop
     // cout<<2; //Not an optimal way of writing code :(
     // cout<<3;
